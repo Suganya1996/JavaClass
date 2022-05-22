@@ -9,8 +9,10 @@ public class Client {
 		byte age = 25;
 		System.out.println(age);
 		
+		
 		short year = 2022;
 		System.out.println("current year is "+year);
+		System.out.println("current year is "+year); //Modified for GIT Class
 		
 		int p = 880708881;
 		System.out.println(p);
