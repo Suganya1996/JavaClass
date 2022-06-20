@@ -8,6 +8,7 @@ public class Client {
 		
 		byte age = 25;
 		System.out.println(age);
+		System.out.println(age);
 		
 		
 		short year = 2022;
